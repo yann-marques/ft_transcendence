@@ -1,0 +1,103 @@
+{
+	"home": {
+		"title": "Accueil",
+		"login": "Connexion",
+		"play": "Jouer à Pong !"
+	},
+	"lobby": {
+		"title": "Salon",
+		"addPlayer": "Ajouter un joueur",
+		"playPong": "Jouer à Pong",
+		"lobbyFull": "Lobby plein",
+		"matchOrder": "Ordre du jeu"
+	},
+	"login": {
+		"title": "Authentification",
+		"username": "Nom d'utilisateur",
+		"password": "Mot de passe",
+		"submit": "Connexion",
+		"loginGoogle":"Se connecter avec Google",
+		"noAccount": "ou, vous n'avez pas de compte ? Cliquez ci-dessous",
+		"registerLink": "Inscription",
+		"error": "Erreur : nom d'utilisateur ou mot de passe incorrect."
+	},
+	"play": {
+		"title": "Choisissez votre mode de jeu",
+		"1v1": "1 VS 1",
+		"1vIA": "1 VS IA",
+		"tournament": "Tournoi"
+	},
+	"register": {
+		"title": "Inscription",
+		"username": "Nom d'utilisateur",
+		"email": "Email",
+		"fullname": "Nom complet",
+		"password": "Mot de passe",
+		"confirmPassword": "Confirmer le mot de passe",
+		"submit": "Créer un compte",
+		"error": "Erreur : le nom d'utilisateur ou l'email existe déjà",
+		"errorTakenUsername": "Error: Le nom d'utilisateur ne peut pas être <me> ou <AI>.",
+		"errorUsernameLong": "Error: Le nom d'utilisateur doit comporter moins de 10 caractères",
+		"errorSamePassword": "Error: Les deux mots de passe ne sont pas identiques.",
+		"errorPasswordLong": "Error: Le mot de passe doit comporter au moins 8 caractères."
+	},
+	"custom": {
+		"color": "Choisir une couleur",
+		"powerup": "Bonus",
+		"mapevents": "Événements de la carte"
+	},
+	 "customization": "Personnalisation ⚙️",
+	"footer": {
+		"credits": "créé avec amour par tebandam, ppuivif, gmersch, mbirou, ymarques. Tous droits réservés"
+	},
+	"friends": {
+	"title": "Amis",
+	"add": "Ajouter",
+	"empty": "Vous n'avez aucun ami"
+	},
+	"match": {
+	"vs": "contre"
+	},
+	"player": {
+	"winrate": "Taux de victoire :"
+	},
+	"navbar": {
+	"profileButton": "Profil",
+	"stats": "Statistiques",
+	"logout": "Déconnexion",
+	"lang": {
+		"en": "Anglais",
+		"fr": "Français",
+		"sp": "Espagnol"
+	}
+	},
+	"profile": {
+	"title": "paramètres du profil ⚙️",
+	"password": "Tapez votre mot de passe",
+	"unlock": "Déverrouiller les paramètres",
+	"changeAvatar": "Cliquez pour changer",
+	"enable2fa": "Activer 2FA",
+	"username": "Nom d'utilisateur",
+	"email": "Adresse email",
+	"fullname": "Nom complet",
+	"newPassword": "Nouveau mot de passe (optionnel)",
+	"confirmPassword": "Confirmer le mot de passe",
+	"update": "Mettre à jour",
+	"wrongPassword": "Error: Mauvais mot de pass",
+	"usernameEmailTaken": "Error: Le username ou l'email est deja pris",
+	"success": "Success: Paramètres mis a jour"
+},
+"stats": {
+  "title": "statistiques",
+  "total": "Parties totales",
+  "wins": "Victoires",
+  "losses": "Défaites",
+  "nodata": "Pas de données",
+  "table": {
+    "date": "Date",
+    "opponent": "Adversaire",
+    "duration": "Durée",
+    "winner": "Gagnant"
+  }
+}
+}

@@ -1,0 +1,16 @@
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/home  # Tout le projet local est monté
+      - ./database.db:/usr/src/app/database.db
+      - /etc/localtime:/etc/localtime:ro
+    env_file:
+      - .env
+    environment:
+      - NODE_ENV=production
+
+volumes:
+  sqlite_data:

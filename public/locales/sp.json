@@ -1,0 +1,103 @@
+{
+  "home": {
+    "title": "Bienvenido",
+    "login": "Iniciar sesión",
+    "play": "¡Jugar al Pong!"
+  },
+  "lobby": {
+    "title": "Sala de espera",
+    "addPlayer": "Agregar jugador",
+    "playPong": "Jugar al Pong",
+    "lobbyFull": "Vestíbulo completo",
+    "matchOrder": "Orden de partido"
+  },
+  "login": {
+    "title": "Autenticación",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "submit": "Iniciar sesión",
+    "loginGoogle" : "Iniciar sesión con Google",
+    "noAccount": "¿No tienes una cuenta? Haz clic abajo",
+    "registerLink": "Registrarse",
+    "error": "Error: nombre de usuario o contraseña incorrectos."
+  },
+  "play": {
+    "title": "Elige tu modo de juego",
+    "1v1": "1 VS 1",
+    "1vIA": "1 VS IA",
+    "tournament": "Torneo"
+  },
+  "register": {
+    "title": "Registro",
+    "username": "Nombre de usuario",
+    "email": "Correo electrónico",
+    "fullname": "Nombre completo",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "submit": "Crear cuenta",
+    "error": "Error: el nombre de usuario o el correo electrónico ya existen",
+    "errorTakenUsername": "Error: El nombre de usuario no puede ser <me> ni <AI>",
+    "errorUsernameLong": "Error: El nombre de usuario debe tener menos de 10 caracteres",
+    "errorSamePassword": "Error: Las dos contraseñas no son iguales",
+    "errorPasswordLong": "Error: La contraseña debe tener al menos 8 caracteres"
+  },
+  "custom": {
+    "color": "Elegir color",
+    "powerup": "Mejora",
+    "mapevents": "Eventos del mapa"
+  },
+  "customization": "Personalización ⚙️",
+  "footer": {
+	  "credits": "creado con amor por tebandam, ppuivif, gmersch, mbirou, ymarques. Todos los derechos reservados"
+  },
+  "friends": {
+    "title": "Amigos",
+    "add": "Agregar",
+    "empty": "No tienes amigos"
+  },
+  "match": {
+    "vs": "contra"
+  },
+  "player": {
+    "winrate": "Tasa de victoria:"
+  },
+  "navbar": {
+    "profileButton": "Perfil",
+    "stats": "Estadísticas",
+    "logout": "Cerrar sesión",
+    "lang": {
+    "en": "Inglés",
+    "fr": "Francés",
+    "sp": "Español"
+  }
+  },
+  "profile": {
+    "title": "configuración del perfil ⚙️",
+    "password": "Escriba su contraseña",
+    "unlock": "Desbloquear ajustes",
+    "changeAvatar": "Haga clic para cambiar",
+    "enable2fa": "Activar 2FA",
+    "username": "Nombre de usuario",
+    "email": "Correo electrónico",
+    "fullname": "Nombre completo",
+    "newPassword": "Nueva contraseña (opcional)",
+    "confirmPassword": "Confirmar contraseña",
+    "update": "Actualizar configuración",
+    "wrongPassword": "Error: Mala palabra de contraseña",
+    "usernameEmailTaken": "Error: El nombre de usuario o correo electrónico ya está en uso",
+    "success": "Éxito: Configuración actualizada"
+  },
+ "stats": {
+  "title": "estadísticas",
+  "total": "Juegos totales",
+  "wins": "Juegos ganados",
+  "losses": "Juegos perdidos",
+  "nodata": "Sin datos",
+  "table": {
+    "date": "Fecha",
+    "opponent": "Oponente",
+    "duration": "Duración",
+    "winner": "Ganador"
+  }
+}
+}

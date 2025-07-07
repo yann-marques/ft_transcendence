@@ -1,0 +1,103 @@
+{
+  "home": {
+	"title": "Home",
+	"login": "Login",
+	"play": "Play pong !"
+  },
+  "lobby": {
+	"title": "Lobby",
+	"addPlayer": "Add a player",
+	"playPong": "Play Pong",
+	"lobbyFull": "Lobby full",
+  "matchOrder": "Match order"
+  },
+  "login": {
+	"title": "Authentication",
+	"username": "Username",
+	"password": "Password",
+	"submit": "Login",
+	"loginGoogle": "Login with google",
+	"noAccount": "or, you don't have an account ? Click below",
+	"registerLink": "Registration",
+	"error": "Error: username or password incorrect."
+  },
+  "play": {
+	"title": "Choose your gamemode",
+	"1v1": "1 VS 1",
+	"1vIA": "1 VS AI",
+	"tournament": "Tournament"
+  },
+  "register": {
+	"title": "Registration",
+	"username": "Username",
+	"email": "Email",
+	"fullname": "Full name",
+	"password": "Password",
+	"confirmPassword": "Confirm password",
+	"submit": "Create an account",
+	"error": "Error: the username or the email already exist",
+  "errorTakenUsername": "Error: The username cannot be <me> or <AI>",
+  "errorUsernameLong": "Error: The username must be under 10 chars long",
+  "errorSamePassword": "Error: The two passwords are not the same.",
+  "errorPasswordLong": "Error: The password must be at least 8 chars long"
+  },
+  "custom": {
+	"color": "Choose color",
+	"powerup": "PowerUP",
+	"mapevents": "Map Events"
+  },
+  "customization": "Customization ⚙️",
+  "footer": {
+	 "credits": "made with love by tebandam, ppuivif, gmersch, mbirou, ymarques. All rights reserved"
+  },
+  "friends": {
+	"title": "Friends",
+	"add": "Add friends",
+	"empty": "You have no friends"
+  },
+  "match": {
+  "vs": "vs"
+  },
+  "player": {
+  "winrate": "Win rate:"
+  },
+  "navbar": {
+  "profileButton": "Profile",
+  "stats": "Stats",
+  "logout": "Logout",
+  "lang": {
+	"en": "English",
+	"fr": "French",
+	"sp": "Spanish"
+  }
+},
+"profile": {
+  "title": "profile settings ⚙️",
+  "password": "Type your password",
+  "unlock": "Unlock settings",
+  "changeAvatar": "Click to change",
+  "enable2fa": "Enable 2FA",
+  "username": "Username",
+  "email": "Email",
+  "fullname": "Full name",
+  "newPassword": "New password (optional)",
+  "confirmPassword": "Confirm new password",
+  "update": "Update settings",
+  "wrongPassword": "Error: Wrong password",
+  "usernameEmailTaken": "Error: The username or email is already taken",
+  "success": "Success: Settings updated"
+},
+"stats": {
+  "title": "statistics",
+  "total": "Total games",
+  "wins": "Game wins",
+  "losses": "Game losses",
+  "nodata": "No Data",
+  "table": {
+    "date": "Date",
+    "opponent": "Opponent",
+    "duration": "Duration",
+    "winner": "Winner"
+  }
+}
+}
